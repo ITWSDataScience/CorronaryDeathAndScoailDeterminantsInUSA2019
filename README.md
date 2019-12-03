@@ -1,1 +1,1 @@
-# CorronaryDeathAndScoailDeterminantsInUSA2019
+# CorronaryDeathAndSocialDeterminantsInUSA2019
