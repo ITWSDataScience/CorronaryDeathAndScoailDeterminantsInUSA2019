@@ -20,3 +20,10 @@
 * The `codes` directory contains all the codes used.
 
 * The `work_dump` directory contains all the miscallenous files related to our project, including raw files and others. 
+
+
+#### Reproducability:
+
+The project report in the `documentation` directory contains detalied information about the analysis done and how to reproduce the same.
+
+#### Results:
