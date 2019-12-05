@@ -33,7 +33,7 @@ Since heart disease is one of the primary killers of the US population, such inv
 * The `work_dump` directory contains all the miscallenous files related to our project, including raw files and others. 
 
 
-#### Reproducability:
+#### Reproducibility:
 
 The project report in the `documentation` directory contains detalied information about the analysis done and how to reproduce the same.
 
