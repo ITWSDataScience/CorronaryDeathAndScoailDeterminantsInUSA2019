@@ -17,6 +17,6 @@
 
 * The `images` directory contains all the images used in the report and the poster.
 
-* The `codes` directory contains all the code used.
+* The `codes` directory contains all the codes used.
 
 * The `work_dump` directory contains all the miscallenous files related to our project, including raw files and others. 
