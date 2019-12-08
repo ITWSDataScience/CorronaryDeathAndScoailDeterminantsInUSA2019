@@ -38,5 +38,7 @@ Since heart disease is one of the primary killers of the US population, such inv
 The project report in the `documentation` directory contains detalied information about the analysis done and how to reproduce the same.
 
 #### Results:
-[Countywise average median income for NYS](https://github.com/ITWSDataScience/CorronaryDeathAndSocialDeterminantsInUSA2019/blob/master/images/map_income.PNG)
-[Countywise heart disease mortality rate for NYS](https://github.com/ITWSDataScience/CorronaryDeathAndSocialDeterminantsInUSA2019/blob/master/images/map_heart.PNG)
+<p align="middle">
+  <img src="https://github.com/ITWSDataScience/CorronaryDeathAndSocialDeterminantsInUSA2019/blob/master/images/map_income.PNG" width="45%" />
+  <img src="https://github.com/ITWSDataScience/CorronaryDeathAndSocialDeterminantsInUSA2019/blob/master/images/map_heart.PNG" width="45%" /> 
+</p>
