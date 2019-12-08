@@ -2,7 +2,7 @@
 
 ### This repository contains the project materials for the Data Science course taken at Rensselaer Polytechnic Institute in Fall 2019
 
-#### Members:
+#### Group 4 Members:
 
 * Ashraful Islam
 * Nicholas Luczak
