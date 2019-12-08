@@ -38,33 +38,33 @@ Since heart disease is one of the primary killers of the US population, such inv
 The project report in the `documentation` directory contains detalied information about the analysis done and how to reproduce the same.
 
 #### Results:
-##### Median Income vs Heart Disease Mortality Rate in New York
+* ##### Median Income vs Heart Disease Mortality Rate in New York
 <p align="middle">
   <img src="https://github.com/ITWSDataScience/CorronaryDeathAndSocialDeterminantsInUSA2019/blob/master/images/map_income.PNG" width="45%" />
   <img src="https://github.com/ITWSDataScience/CorronaryDeathAndSocialDeterminantsInUSA2019/blob/master/images/map_heart.PNG" width="45%" /> 
 </p>
 
-##### Chloropeth Map of Heart Disease Mortality Rate for US
+* ##### Chloropeth Map of Heart Disease Mortality Rate for US
 <p align="middle">
   <img src="https://github.com/ITWSDataScience/CorronaryDeathAndSocialDeterminantsInUSA2019/blob/master/images/chloro_heart.png" width="80%" />
 </p>
 
-##### Chloropeth Map of Overall Social Vulerability Index for US
+* ##### Chloropeth Map of Overall Social Vulerability Index for US
 <p align="middle">
   <img src="https://github.com/ITWSDataScience/CorronaryDeathAndSocialDeterminantsInUSA2019/blob/master/images/chloro_svi.png" width="80%" />
 </p>
 
-##### Chloropeth Map of Socioeconomic Status for US
+* ##### Chloropeth Map of Socioeconomic Status for US
 <p align="middle">
   <img src="https://github.com/ITWSDataScience/CorronaryDeathAndSocialDeterminantsInUSA2019/blob/master/images/chloro_socioeconomic.png" width="80%" />
 </p>
 
-##### Chloropeth Map of Household Composition for US
+* ##### Chloropeth Map of Household Composition for US
 <p align="middle">
   <img src="https://github.com/ITWSDataScience/CorronaryDeathAndSocialDeterminantsInUSA2019/blob/master/images/chloro_household_composition.png" width="80%" />
 </p>
 
-##### Chloropeth Map of Housing and Transportation for US
+* ##### Chloropeth Map of Housing and Transportation for US
 <p align="middle">
   <img src="https://github.com/ITWSDataScience/CorronaryDeathAndSocialDeterminantsInUSA2019/blob/master/images/chloro_transportation.png" width="80%" />
 </p>
