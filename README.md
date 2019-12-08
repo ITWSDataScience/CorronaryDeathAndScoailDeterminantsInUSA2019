@@ -41,7 +41,7 @@ The project report in the `documentation` directory contains detalied informatio
 * ##### Median Income vs Heart Disease Mortality Rate in New York
 <p align="middle">
   <img src="https://github.com/ITWSDataScience/CorronaryDeathAndSocialDeterminantsInUSA2019/blob/master/images/map_income.PNG" width="45%" />
-  <img src="https://github.com/ITWSDataScience/CorronaryDeathAndSocialDeterminantsInUSA2019/blob/master/images/map_heart.PNG" width="45%" /> 
+  <img src="https://github.com/ITWSDataScience/CorronaryDeathAndSocialDeterminantsInUSA2019/blob/master/images/map_heart.PNG" width="48%" /> 
 </p>
 
 * ##### Chloropeth Map of Heart Disease Mortality Rate for US
