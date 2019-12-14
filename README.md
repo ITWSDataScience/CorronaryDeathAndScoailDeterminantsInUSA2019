@@ -69,3 +69,7 @@ The project report in the `documentation` directory contains detalied informatio
   <img src="https://github.com/ITWSDataScience/CorronaryDeathAndSocialDeterminantsInUSA2019/blob/master/images/chloro_transportation.png" width="80%" />
 </p>
 
+* ##### Heart Disease Mortality Rate by Ethnicity for New York
+<p align="middle">
+  <img src="https://github.com/ITWSDataScience/CorronaryDeathAndSocialDeterminantsInUSA2019/blob/master/images/ethnicity_hd.png" width="80%" />
+</p>
