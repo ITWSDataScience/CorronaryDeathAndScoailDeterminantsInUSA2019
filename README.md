@@ -71,5 +71,5 @@ The project report in the `documentation` directory contains detalied informatio
 
 * ##### Heart Disease Mortality Rate by Ethnicity for New York
 <p align="middle">
-  <img src="https://github.com/ITWSDataScience/CorronaryDeathAndSocialDeterminantsInUSA2019/blob/master/images/ethnicity_hd.png" width="80%" />
+  <img src="https://github.com/ITWSDataScience/CorronaryDeathAndSocialDeterminantsInUSA2019/blob/master/images/ethnicity_hd.png" width="50%" />
 </p>
